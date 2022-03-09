@@ -1,0 +1,2 @@
+class SimpleIteration:
+    pass
